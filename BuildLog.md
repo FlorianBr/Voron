@@ -23,3 +23,5 @@ The Octopus Pro can power the Raspberry Pi directly, no need for an additional 5
 I also have the Raspi connected twice to the Controller, with USB as well as serial.
 
 <img src="./imgs/elektro_01.jpg" width="25%" height="25%">
+
+# Stealthburner
