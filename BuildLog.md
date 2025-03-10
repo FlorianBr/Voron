@@ -24,4 +24,8 @@ I also have the Raspi connected twice to the Controller, with USB as well as ser
 
 <img src="./imgs/elektro_01.jpg" width="25%" height="25%">
 
+Final (maybe) wiring. Including front display, the shelly for auto-off, fans and so on.
+
+<img src="./imgs/elektro_02.jpg" width="25%" height="25%">
+
 # Stealthburner
