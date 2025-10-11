@@ -18,8 +18,11 @@ Stuff, [Build-Log](BuildLog.md) and Config for my Voron 2.4
 - [Triangle Labs Filament Sensor](https://www.trianglelab.net/products/sensors?VariantsId=10607)
 - [BTT Eddy Probe](https://biqu.equipment/products/bigtreetech-eddy)
 - [Nozzle Brush mit Bucket](https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24?lang=de)
-- [RocknRoll](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/RockNLol/RockNRoll)
+- [RocknRoll](https://mods.vorondesign.com/details/tiIhFDTh9tHJY0JNJK9A)
 - [Panel Latches](https://github.com/richardjm/voron-parts/tree/main/voron-2.4/FilamentLatch)
+- [AngryCam](https://mods.vorondesign.com/details/RYpQW53mtem8Nj1JKqiSQ)
+- [CamHolder](https://www.printables.com/model/673803-5mp-cam-usb-for-76-degree-auto-fixed-focus-usb-cam)
+- [PEI Stop](https://mods.vorondesign.com/details/HPcfxCUYAw8jwTTRJOf9IA)
 
 ## Wiring
 
@@ -34,11 +37,15 @@ Stuff, [Build-Log](BuildLog.md) and Config for my Voron 2.4
 
 ## TODO
 
-- SW control of the exhaust fan
-- SW control of the case fans
-- Telegram bot
-- Another Camera
-- LED lighting
-- Nevermore Filter
-- Clicky Clacky Door
-- Kinematic Mounts
+- [ ] SW control of the exhaust fan
+- [ ] SW control of the case fans
+- [X] Telegram bot
+- [X] Secondary Camera
+- [X] LED lighting
+- [ ] Nevermore Filter
+- [ ] Clicky Clacky Door
+- [ ] Kinematic Mounts
+- [ ] [Display Mount](https://www.printables.com/model/926845-btt-hdmi5-v12-display-mount-voron)
+- [ ] [Nevermore Micro]()
+- [ ] [Kmomi 2 Remote Control](https://www.printables.com/model/789391-watchmi-the-knomi-2-remote-controller-for-klipper)
+- [ ] [BallJoint](https://github.com/bwilliams9611/ERCF_BallJoint_Passthrough)
