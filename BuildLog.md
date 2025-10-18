@@ -76,3 +76,8 @@ Close to the bucket at the back is the secondary cam in a [CamHolder](https://ww
 
 <img src="./imgs/brush_cam.jpg" width="25%" height="25%">
 
+### BTT Touch Display
+
+Replacing the original small display with encoder with a 5" Touch-Panel from BTT, KlipperScreen and a [Display Mount](https://www.printables.com/model/926845-btt-hdmi5-v12-display-mount-voron). Much more comfortable to control the printer!
+
+<img src="./imgs/display.jpg" width="25%" height="25%">

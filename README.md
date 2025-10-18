@@ -22,6 +22,7 @@ Stuff, [Build-Log](BuildLog.md) and Config for my Voron 2.4
 - [AngryCam](https://mods.vorondesign.com/details/RYpQW53mtem8Nj1JKqiSQ) (Primary Cam)
 - [CamHolder](https://www.printables.com/model/673803-5mp-cam-usb-for-76-degree-auto-fixed-focus-usb-cam) (Secondary Cam)
 - [PEI Stop](https://mods.vorondesign.com/details/HPcfxCUYAw8jwTTRJOf9IA)
+- [Display Mount](https://www.printables.com/model/926845-btt-hdmi5-v12-display-mount-voron)
 
 ## Wiring
 
@@ -53,7 +54,6 @@ Stuff, [Build-Log](BuildLog.md) and Config for my Voron 2.4
 - [ ] [Clicky Clacky Door](https://github.com/tanaes/whopping_Voron_mods/blob/main/clickyclacky_door%2FREADME.md)
 - [ ] Kinematic Mounts
 - [ ] Beefy Front Idlers
-- [ ] [Display Mount](https://www.printables.com/model/926845-btt-hdmi5-v12-display-mount-voron)
 - [ ] [Kmomi 2 Remote Control](https://www.printables.com/model/789391-watchmi-the-knomi-2-remote-controller-for-klipper)
 - [ ] [HULA Feet](https://github.com/thrutheframe/HULA_Voron)
 - [ ] [FilamATrix](https://github.com/thunderkeys/FilamAtrix)
