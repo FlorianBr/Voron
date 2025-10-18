@@ -17,7 +17,7 @@ Stuff, [Build-Log](BuildLog.md) and Config for my Voron 2.4
 - [Voron Tap CNC](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298)
 - [Triangle Labs Filament Sensor](https://www.trianglelab.net/products/sensors?VariantsId=10607)
 - [BTT Eddy Probe](https://biqu.equipment/products/bigtreetech-eddy)
-- [Nozzle Brush mit Bucket](https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24?lang=de)
+- [Nozzle Brush with Bucket](https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24?lang=de)
 - [Panel Latches](https://github.com/richardjm/voron-parts/tree/main/voron-2.4/FilamentLatch)
 - [AngryCam](https://mods.vorondesign.com/details/RYpQW53mtem8Nj1JKqiSQ) (Primary Cam)
 - [CamHolder](https://www.printables.com/model/673803-5mp-cam-usb-for-76-degree-auto-fixed-focus-usb-cam) (Secondary Cam)
@@ -26,6 +26,16 @@ Stuff, [Build-Log](BuildLog.md) and Config for my Voron 2.4
 ## Wiring
 
 <img src="wiring.png" width="50%" height="50%">
+
+
+## Configs
+
+- [Crowsnest](configs/crowsnest.conf): The settings for the two USB cameras.
+- [KAMP](configs/KAMP_Settings.cfg): Adaptive meshing and line purging.
+- [Macros](configs/macros.cfg): All my macros for Auto-Power-Off, Start/Stop/Pause and homing.
+- [Moonraker](configs/moonraker.conf): Moonrakers settings, mostly the update manager links.
+- [Printer](configs/printer.cfg): All the Voron settings, including the disabled eddy probe.
+- [Telegram](configs/telegram.conf): For the Telegram Bot. Bust the basics at the moment.
 
 ## Notes
 
