@@ -5,6 +5,7 @@ Bigtreetech Octopus Pro v1.1 (XH2.54 CAN-Stecker)
 CPU: STM32H723
 
 - [Manual](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro/blob/master/BTT_Octopus_pro_EN.pdf)
+-g [Klipper Info](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/blob/master/Firmware/Klipper/README.md)
 - [Pins](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro/blob/master/Hardware/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0.pdf)
 - [Schematic](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro/blob/master/Hardware/BIGTREETECH%20Octopus%20Pro_SCH.pdf)
 
@@ -31,9 +32,12 @@ CPU: STM32H723
 
 ## Firmware
 
-[Manual](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/blob/master/Firmware/Klipper/README.md)
+I flashed the board with the katapult bootloader and a suitable firmware. Nothing special, exactly as described in the wiki
 
-Settings:
+Settings for Katapult:
 
-- USB on PA11/PA12
-- CAN on PD0/PD1
+<img src="./imgs/menuconfig_octopus_katapult.png" width="25%" height="25%">
+
+Settings for Klipper:
+
+<img src="./imgs/menuconfig_octopus_klipper.png" width="25%" height="25%">

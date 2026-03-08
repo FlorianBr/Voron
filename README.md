@@ -6,7 +6,7 @@ Technical documentation, all sorts of stuff, [Build-Log](BuildLog.md) and config
 
 - Raspberry Pi 3b
 - [Controller-Board](Controller.md): [Octopus Pro v1.1](https://biqu.equipment/products/bigtreetech-octopus-pro-v1-0-chip-f446)
-- Hotend: ~~[Phaetus Dragon HF](https://www.phaetus.com/products/dragon-hotend-hf)~~ [E3D V6 ](https://de.aliexpress.com/item/1005007673339236.html)
+- Hotend: ~~[Phaetus Dragon HF](https://www.phaetus.com/products/dragon-hotend-hf)~~ [E3D V6](https://de.aliexpress.com/item/1005007673339236.html)
 - [Steppers](Steppers.md)
 - [Sensors](Sensors.md)
 
@@ -25,7 +25,6 @@ Technical documentation, all sorts of stuff, [Build-Log](BuildLog.md) and config
 - [CamHolder](https://www.printables.com/model/673803-5mp-cam-usb-for-76-degree-auto-fixed-focus-usb-cam) (Secondary Cam)
 - [PEI Stop](https://mods.vorondesign.com/details/HPcfxCUYAw8jwTTRJOf9IA)
 - [Display Mount](https://www.printables.com/model/926845-btt-hdmi5-v12-display-mount-voron)
-- [Balljoint Passthrough](https://github.com/bwilliams9611/ERCF_BallJoint_Passthrough)
 
 ## Wiring
 
@@ -58,6 +57,7 @@ Some external and maybe helpful links:
 
 ## TODO
 
+- [ ] [Balljoint Passthrough](https://github.com/bwilliams9611/ERCF_BallJoint_Passthrough)
 - [ ] SW control of the exhaust fan
 - [ ] SW control of the case fans
 - [ ] Emergency Off
