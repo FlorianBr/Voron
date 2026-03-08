@@ -5,7 +5,7 @@ Bigtreetech Octopus Pro v1.1 (XH2.54 CAN-Stecker)
 CPU: STM32H723
 
 - [Manual](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro/blob/master/BTT_Octopus_pro_EN.pdf)
--g [Klipper Info](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/blob/master/Firmware/Klipper/README.md)
+- [Klipper Info](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/blob/master/Firmware/Klipper/README.md)
 - [Pins](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro/blob/master/Hardware/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0.pdf)
 - [Schematic](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro/blob/master/Hardware/BIGTREETECH%20Octopus%20Pro_SCH.pdf)
 

@@ -24,7 +24,7 @@ Technical documentation, all sorts of stuff, [Build-Log](BuildLog.md) and config
 - [AngryCam](https://mods.vorondesign.com/details/RYpQW53mtem8Nj1JKqiSQ) (Primary Cam)
 - [CamHolder](https://www.printables.com/model/673803-5mp-cam-usb-for-76-degree-auto-fixed-focus-usb-cam) (Secondary Cam)
 - [PEI Stop](https://mods.vorondesign.com/details/HPcfxCUYAw8jwTTRJOf9IA)
-- [Display Mount](https://www.printables.com/model/926845-btt-hdmi5-v12-display-mount-voron)
+- [Display Mount](https://www.printables.com/model/926845-btt-hdmi5-v12-display-mount-voron) with 5" Touch-Panel
 
 ## Wiring
 
@@ -44,7 +44,7 @@ Technical documentation, all sorts of stuff, [Build-Log](BuildLog.md) and config
 - With the Octopus Pro board a 5V PSU is not necessary
 - X and Y endstops are connected to the CAN-Board in the Stealthburner
 - The driver for Z1 had problems, so it is connected do a different driver
-- The Raspberry is connected with UART and USB to the Octopus, but only USB is used
+- The Raspberry is connected with UART and USB to the Octopus, but ~~only USB is used~~ communication uses CAN
 
 ## External Links
 
@@ -65,7 +65,7 @@ Some external and maybe helpful links:
 - [ ] [Clicky Clacky Door](https://github.com/tanaes/whopping_Voron_mods/blob/main/clickyclacky_door%2FREADME.md)
 - [ ] Kinematic Mounts
 - [ ] Beefy Front Idlers
-- [ ] [Kmomi 2 Remote Control](https://www.printables.com/model/789391-watchmi-the-knomi-2-remote-controller-for-klipper)
+- [ ] [Knomi 2 Remote Control](https://www.printables.com/model/789391-watchmi-the-knomi-2-remote-controller-for-klipper)
 - [ ] [HULA Feet](https://github.com/thrutheframe/HULA_Voron)
 - [ ] [FilamATrix](https://github.com/thunderkeys/FilamAtrix)
 - [ ] [Pika Filament Buffer](https://github.com/geoffrey-young/pika-filament-buffer/tree/main)
